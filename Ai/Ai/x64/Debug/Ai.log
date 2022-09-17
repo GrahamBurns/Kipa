@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\mista\source\repos\Ai\Ai\tile.h(24,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mista\source\repos\Ai\Ai\tile.h(50,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mista\source\repos\Ai\Ai\tile.h(55,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Ai.vcxproj -> C:\Users\mista\source\repos\Ai\x64\Debug\Ai.exe
